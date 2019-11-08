@@ -1,0 +1,35 @@
+body{
+	padding: 0px;
+	margin: 0px;
+	background-color: #63A375;
+}
+
+#header-nav{
+	background-color: #EDC79B;
+}
+
+.navbar-header{
+	height: 100px;
+}
+
+.navbar-header .collapse-navbar-collapse {
+	width: 100%;
+	border-color: none;
+}
+
+#tall_p {
+	height: 1000px;
+	background-color: #713E5A;
+	width: 100%;
+}
+
+.navbar-header .navbar-toggle{
+	background-color: #fff;
+	clear: both;
+}
+
+#mobile-menu {
+	background-color: #D57A66;
+	color: #fff;
+	font-size: 20px;
+}
